@@ -8,9 +8,6 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
--1440px laptop(L) view.png
-
 ### Links
 
 - Solution URL: https://github.com/Pancha99x/Frontend-mentor-Project-2
