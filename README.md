@@ -11,7 +11,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Pancha99x/Frontend-mentor-Project-2
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://pancha99x.github.io/Frontend-mentor-Project-2/
 
 ### Built with
 
